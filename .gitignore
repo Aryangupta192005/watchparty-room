@@ -3,4 +3,7 @@ uploads/*
 !uploads/.gitkeep
 .env
 .DS_Store
-.venv
+# Python virtual environment
+.venv/
+venv/
+env/
