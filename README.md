@@ -48,3 +48,4 @@ Deploy this Node app to a host that supports persistent WebSocket connections an
 - `public/index.html` — home and room markup.
 - `public/styles.css` — responsive visual design.
 - `public/app.js` — room navigation, live chat, uploads, and playback correction.
+- 'try https://watchparty-room.onrender.com
