@@ -1,8 +1,9 @@
+
 services:
   - type: web
     name: watchparty-room
     runtime: node
-    plan: starter
+    plan: free
     buildCommand: npm install
     startCommand: npm start
     healthCheckPath: /health
